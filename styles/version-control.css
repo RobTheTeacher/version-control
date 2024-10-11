@@ -37,13 +37,13 @@ body {
 }
 
 .git-commands__command {
-    background-color: #3d518c;
+    background-color: #973d22;
     padding: 16px;
     font-size: 2rem;
 }
 
 .git-commands__effect {
-    background-color: #7692ff;
+    background-color: #831719;
     padding: 16px;
     font-size: 1.5rem;
 }
